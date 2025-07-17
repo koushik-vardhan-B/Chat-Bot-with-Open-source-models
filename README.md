@@ -14,8 +14,8 @@ This project is a simple Q&A chatbot built with [Streamlit](https://streamlit.io
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone git@github.com:koushik-vardhan-B/Chat-Bot-with-Open-source-models.git
+   cd Chat-Bot-with-Open-source-models
    ```
 
 2. **Install dependencies:**
